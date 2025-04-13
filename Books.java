@@ -100,10 +100,10 @@ public class Books {
 			writer.write("260:\t" + publishingLocation + " : " + publishingCompany + ", " + yearPublishedString + "\n");
 			if (illustrations) {
 				String illustrationsString = "Illustrations ;";
-				writer.write("300:\t" + pagesString + " : " + illustrationsString + " ; " + sizeString + "cm.\n");
+				writer.write("300:\t" + pagesString + " pages : " + illustrationsString + " ; " + sizeString + "cm.\n");
 			}
 			else {
-				writer.write("300:\t" + pagesString + " : " + " ; " + sizeString + "cm.\n");
+				writer.write("300:\t" + pagesString + " pages : " + " ; " + sizeString + "cm.\n");
 			}
 			writer.write("336:\t" + "text | txt | rdacontent\n");
 			writer.write("337:\t" + "unmediated | n | rdamedia\n");
