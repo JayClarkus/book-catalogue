@@ -1,0 +1,15 @@
+Catalogue Date:	4/12/2025
+001:	zv_099
+020:	9781119861645
+099:	005.13 BUR Java
+245:	Java / Burd, Barry
+246:	Java for Dummies
+260:	Hoboken, NJ : John Wiley & Sons, Inc., 2022
+300:	497 : Illustrations ; ; 24cm.
+336:	text | txt | rdacontent
+337:	unmediated | n | rdamedia
+338:	volume | nc | rdacarrier
+520:	Getting started with Java. All about Java, Software, and the basic building blocks.
+650:	Java
+650:	Coding
+650:	Programming
