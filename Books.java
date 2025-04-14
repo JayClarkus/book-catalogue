@@ -83,7 +83,6 @@ public class Books {
 			tags.put(title, tagCollection);
 		}
 		
-		String zvString = String.valueOf(zv);
 		String yearPublishedString = String.valueOf(yearPublished);
 		String isbnString = String.valueOf(isbn);
 		String pagesString = String.valueOf(pages);
